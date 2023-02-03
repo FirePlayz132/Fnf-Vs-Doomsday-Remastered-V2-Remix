@@ -4874,7 +4874,7 @@
 			]
 		],
 		"gfVersion": "gf",
-		"player2": "Squidha",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -14195,9 +14195,9 @@
 		],
 		"player3": null,
 		"song": "bopeebo",
-		"needsVoices": true,
+		"needsVoices": false,
 		"validScore": true,
-		"stage": "stage",
+		"stage": "1",
 		"speed": 3.1,
 		"bpm": 195
 	}
