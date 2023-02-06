@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "phase2",
+		"player2": "monster",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -6673,7 +6673,7 @@
 			]
 		],
 		"player3": null,
-		"song": "dad battle",
+		"song": "dad-battle",
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "stage",
