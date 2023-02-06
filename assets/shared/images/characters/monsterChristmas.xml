@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Squidward.png">
+<TextureAtlas imagePath="monsterChristmas.png">
 <SubTexture name="Idle0000" x="5512" y="3522" width="1081" height="1732" frameX="-202" frameY="-175" frameWidth="1644" frameHeight="1914" />
 <SubTexture name="Idle0001" x="6605" y="3527" width="1080" height="1759" frameX="-201" frameY="-148" frameWidth="1644" frameHeight="1914" />
 <SubTexture name="Idle0002" x="5512" y="0" width="1093" height="1768" frameX="-186" frameY="-139" frameWidth="1644" frameHeight="1914" />
